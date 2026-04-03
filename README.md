@@ -33,18 +33,6 @@
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-
-![Zingen Hero Preview](assets/preview-hero.png)
-
-*Seção Hero - Experiência visual e convidativa da landing page*
-
-</div>
-
----
-
 ## Sobre o Projeto
 
 **Zingen** é uma landing page inovadora que apresenta um aplicativo revolucionário de karaokê potenciado por Inteligência Artificial. O projeto foi desenvolvido com foco em **responsividade**, **acessibilidade** e **experiência do usuário** para promover um aplicativo que permite aos usuários cantar suas músicas favoritas com tecnologia de ponta.
